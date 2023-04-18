@@ -158,5 +158,5 @@ https://an-oleg.notion.site/GitHub-34cdad7efd89432b8439902e3be45e7d
 [![Stepik](https://img.shields.io/badge/-Stepik-090909?style=for-the-badge&logo=stepik&logoColor=4F7DB3)](https://stepik.org/users/524779521/certificates)
 [![netology](https://img.shields.io/badge/-netology-090909?style=for-the-badge&logo=netology&logoColor=4F7DB3)](https://netology.ru/sharing/b6507cbb53e268fcf74f740f0bbebfc6?utm_source=social&utm_campaign=achievements)
 
-![snake gif](https://github.com/mranolegprivate/mranolegprivate/blob/output/github-contribution-grid-snake.gif)
+  ![Snake animation](https://github.com/mranolegprivate/mranolegprivate/blob/output/github-contribution-grid-snake.svg)
 
