@@ -25,13 +25,6 @@ mranolegprivate@gmail.com
 |:---|:---|:---|:---|:---|:---|
 | [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mranolegprivate) | [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/mranolegprivate) | [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/mranolegprivate) | [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://facebook.com/mranolegprivate) | [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=1195F5)](https://linkedin.com/in/an-oleg/) | [![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord&logoColor=27A0D9)](https://discord.com/users/mranolegprivate#4437) 
 
-
-
-
-
-
-
-
 Ключевые навыки:
 
 ![Atlassian_Confluence](https://img.shields.io/badge/-Atlassian_Confluence-090909?style=for-the-badge&logoColor=47C5FB)
@@ -160,12 +153,10 @@ https://an-oleg.notion.site/GitHub-34cdad7efd89432b8439902e3be45e7d
 
 Английский — A2 — Элементарный
 
-
 ![Электронные_сертификаты:](https://img.shields.io/badge/-Электронные_сертификаты:-090909?style=for-the-badge&Color=1195F5)
 
 [![Stepik](https://img.shields.io/badge/-Stepik-090909?style=for-the-badge&logo=stepik&logoColor=4F7DB3)](https://stepik.org/users/524779521/certificates)
 [![netology](https://img.shields.io/badge/-netology-090909?style=for-the-badge&logo=netology&logoColor=4F7DB3)](https://netology.ru/sharing/b6507cbb53e268fcf74f740f0bbebfc6?utm_source=social&utm_campaign=achievements)
 
 ![snake gif](https://github.com/mranolegprivate/mranolegprivate/blob/output/github-contribution-grid-snake.gif)
-
 
