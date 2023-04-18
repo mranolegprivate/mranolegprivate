@@ -32,8 +32,14 @@ mranolegprivate@gmail.com
 ![Atlassian_Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=27A0D9)
 ![Miro](https://img.shields.io/badge/-Miro-090909?style=for-the-badge&logo=Miro&logoColor=27A0D9)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=27A0D9)
+![Git Bash](https://img.shields.io/badge/-Git%20Bash-090909?style=for-the-badge&logo=Git%20Bash&logoColor=27A0D9)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-090909?style=for-the-badge&logo=Android%20Studio&logoColor=27A0D9)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=27A0D9)
+![Windows](https://img.shields.io/badge/-windows-090909?style=for-the-badge&logo=windows&logoColor=27A0D9)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=27A0D9)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-090909?style=for-the-badge&logo=Microsoft%20Excel&logoColor=27A0D9)
 ![Sitechco](https://img.shields.io/badge/-sitechco-090909?style=for-the-badge&logo=sitechco&logoColor=27A0D9)
+![JMeter](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=JMeter&logoColor=27A0D9)
 ![UX,UI](https://img.shields.io/badge/-UX,UI-090909?style=for-the-badge&logoColor=47C5FB)
 ![Регрессионное_тестирование](https://img.shields.io/badge/-Регрессионное_тестирование-090909?style=for-the-badge&logoColor=47C5FB)
 ![Функциональное_и_нефункциональное_тестирование](https://img.shields.io/badge/-Функциональное_и_нефункциональное_тестирование-090909?style=for-the-badge&logoColor=47C5FB)
@@ -44,6 +50,14 @@ mranolegprivate@gmail.com
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=27A0D9)
 ![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-090909?style=for-the-badge&logoColor=47C5FB)
 ![Qase.io](https://img.shields.io/badge/-Qase.io-090909?style=for-the-badge&logoColor=47C5FB)
+![DBeaver](https://img.shields.io/badge/-DBeaver-090909?style=for-the-badge&logo=DBeaver&logoColor=27A0D9)
+![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles&logoColor=27A0D9)
+
+
+
+
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=27A0D9)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=27A0D9)
 ![Навыки обучения](https://img.shields.io/badge/-Навыки_обучения-090909?style=for-the-badge&logoColor=47C5FB)
 
 Опыт:
