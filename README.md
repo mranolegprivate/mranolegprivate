@@ -52,10 +52,6 @@ mranolegprivate@gmail.com
 ![Qase.io](https://img.shields.io/badge/-Qase.io-090909?style=for-the-badge&logoColor=47C5FB)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-090909?style=for-the-badge&logo=DBeaver&logoColor=27A0D9)
 ![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles&logoColor=27A0D9)
-
-
-
-
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=27A0D9)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=27A0D9)
 ![Навыки обучения](https://img.shields.io/badge/-Навыки_обучения-090909?style=for-the-badge&logoColor=47C5FB)
