@@ -1,3 +1,9 @@
+### Hello everyone! My name is Oleg. Welcome to my GitHub👋 ###
+
+*🤗A few details about myself:*
++ 🌱 II’m currently learning English and automation testing PYTHON
+
+
 <div align="center">
 <img src = "https://github.com/mranolegprivate/anoleg_rezume/blob/main/assets/rezume.jpg?raw=true"/>
 </div>
