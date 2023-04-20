@@ -169,5 +169,4 @@ https://an-oleg.notion.site/GitHub-34cdad7efd89432b8439902e3be45e7d
 [![netology](https://img.shields.io/badge/-netology-090909?style=for-the-badge&logo=netology&logoColor=4F7DB3)](https://netology.ru/sharing/b6507cbb53e268fcf74f740f0bbebfc6?utm_source=social&utm_campaign=achievements)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mranolegprivate&theme=cobalt&show_icons=true)
-
-  ![Snake animation](https://github.com/mranolegprivate/mranolegprivate/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mranolegprivate/mranolegprivate/blob/output/github-contribution-grid-snake.svg)
