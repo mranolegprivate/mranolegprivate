@@ -178,6 +178,3 @@ https://an-oleg.notion.site/GitHub-34cdad7efd89432b8439902e3be45e7d
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mranolegprivate&theme=cobalt&show_icons=true)
 
-
-![Snake animation](https://github.com/mranolegprivate/mranolegprivate/blob/output/github-contribution-grid-snake.svg)
-
