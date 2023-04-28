@@ -71,7 +71,7 @@ mranolegprivate@gmail.com
 
 Информационные технологии, системная интеграция, интернет... Показать еще
 
-![Стажер_тестировщик:](https://img.shields.io/badge/-Стажер_тестировщик:-090909?style=for-the-badge&Color=1195F5)
+![Студент_наставник:](https://img.shields.io/badge/-Студент_наставник:-090909?style=for-the-badge&Color=1195F5 "Студент_наставник")
 
 Во время обучения:
 
