@@ -1,7 +1,7 @@
 ### Hello everyone! My name is Oleg. Welcome to my GitHub👋 ###
 
 *🤗A few details about myself:*
-+ 🌱 II’m currently learning English and automation testing PYTHON
++ 🌱 II’m currently learning English and automation testing PYTHON.
 
 
 <div align="center">
