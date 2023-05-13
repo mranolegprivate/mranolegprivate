@@ -149,6 +149,7 @@ https://an-oleg.notion.site/GitHub-34cdad7efd89432b8439902e3be45e7d
 - Организовывал продленки с учащимися:
 - Принял участие в тестировании сайта klumba71: Завел 6 баг-репортов, 2 из которых Critical:
 
+![Опыт:](https://img.shields.io/badge/Опыт:-000080?style=for-the-badge&Color=000080)
 
 ![DACK D:](https://img.shields.io/badge/-DACK_D,_Южная_Корея:-090909?style=for-the-badge&Color=1195F5)
 
