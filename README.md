@@ -63,11 +63,10 @@ mranolegprivate@gmail.com
 ![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-fcc525?style=for-the-badge&logoColor=47C5FB)
 ![Навыки обучения](https://img.shields.io/badge/-Навыки_обучения-3ae180?style=for-the-badge&logoColor=47C5FB)
 
+![Опыт:](https://img.shields.io/badge/Опыт:-000080?style=for-the-badge&Color=000080)
 
-
-![Авторские курсы Вадима Ксендзова:](https://img.shields.io/badge/Авторские_курсы_Вадима_Ксендзова:-090909?style=for-the-badge&Color=1195F5)
-
-![Опыт:](https://img.shields.io/badge/Опыт:-32CD32?style=for-the-badge&Color=32CD32)
+![Авторские курсы Вадима Ксендзова:](https://img.shields.io/badge/Авторские_курсы_Вадима_Ксендзова:-090909?style=for-the-badge&Color=1195F5)  
+https://ksendzov.com/
 
 Выполненные домашние работы:
 - Postman - https://clck.ru/34Ndve
@@ -83,9 +82,10 @@ mranolegprivate@gmail.com
 - UX/UI тестирование;
 - Мобильное тестирование (интеграционное, смоук, регрессионное, кросс-браузерное, кросс-платформенное).
 
-Опыт:
+![Опыт:](https://img.shields.io/badge/Опыт:-000080?style=for-the-badge&Color=000080)
 
-![sky.pro:](https://img.shields.io/badge/-Skyeng/Skypro_крупнейший_онлайн—университет:-090909?style=for-the-badge&Color=1195F5)
+![sky.pro:](https://img.shields.io/badge/-Skyeng/Skypro_крупнейший_онлайн—университет:-090909?style=for-the-badge&Color=1195F5)  
+https://sky.pro/
 
 Сентябрь 2022 — по настоящее время
 
