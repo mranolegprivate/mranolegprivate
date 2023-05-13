@@ -67,7 +67,7 @@ mranolegprivate@gmail.com
 
 ![Авторские курсы Вадима Ксендзова:](https://img.shields.io/badge/Авторские_курсы_Вадима_Ксендзова:-090909?style=for-the-badge&Color=1195F5)
 
-![Опыт:](https://img.shields.io/badge/Опыт:-090909?style=for-the-badge&Color=32CD32)
+![Опыт:](https://img.shields.io/badge/Опыт:-32CD32?style=for-the-badge&Color=32CD32)
 
 Выполненные домашние работы:
 - Postman - https://clck.ru/34Ndve
