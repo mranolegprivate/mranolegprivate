@@ -94,15 +94,9 @@ mranolegprivate@gmail.com
 
 ![Стажер-тестировщик:](https://img.shields.io/badge/-Стажер_тестировщик:-090909?style=for-the-badge&Color=1195F5 "Студент наставник")
 
-Выполненные работы:
-- Баг-репорты - https://clck.ru/34Ni2h
-- Чек-листы - https://clck.ru/34NhvS
-- Тест-кейсы - https://clck.ru/34Nhwf
-- Postman - https://clck.ru/34Nhuw
-- SQL - https://clck.ru/34Nhxi
-- Тест-план - https://clck.ru/34NhyJ
-- Отчет о тестировании - https://clck.ru/34Nhyp
-- Декомпозиции - https://clck.ru/34Nhzh
+Примеры работ:
+
+- Курсовые и Дипломная - https://clck.ru/34QUkS
 
 Во время обучения:
 
