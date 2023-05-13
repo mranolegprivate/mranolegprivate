@@ -63,9 +63,11 @@ mranolegprivate@gmail.com
 ![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-fcc525?style=for-the-badge&logoColor=47C5FB)
 ![Навыки обучения](https://img.shields.io/badge/-Навыки_обучения-3ae180?style=for-the-badge&logoColor=47C5FB)
 
-Опыт:
+
 
 ![Авторские курсы Вадима Ксендзова:](https://img.shields.io/badge/Авторские_курсы_Вадима_Ксендзова:-090909?style=for-the-badge&Color=1195F5)
+
+![Опыт:](https://img.shields.io/badge/Опыт:-090909?style=for-the-badge&Color=32CD32)
 
 Выполненные домашние работы:
 - Postman - https://clck.ru/34Ndve
