@@ -81,11 +81,23 @@ mranolegprivate@gmail.com
 - UX/UI тестирование;
 - Мобильное тестирование (интеграционное, смоук, регрессионное, кросс-браузерное, кросс-платформенное).
 
+Опыт:
+
 ![sky.pro:](https://img.shields.io/badge/-Skyeng/Skypro_крупнейший_онлайн—университет:-090909?style=for-the-badge&Color=1195F5)
 
 Сентябрь 2022 — по настоящее время
 
-![Студент_наставник:](https://img.shields.io/badge/-Студент_наставник:-090909?style=for-the-badge&Color=1195F5 "Студент наставник")
+![Стажер-тестировщик:](https://img.shields.io/badge/-Стажер_тестировщик:-090909?style=for-the-badge&Color=1195F5 "Студент наставник")
+
+Выполненные работы:
+- Баг-репорты - https://clck.ru/34Ni2h
+- Чек-листы - https://clck.ru/34NhvS
+- Тест-кейсы - https://clck.ru/34Nhwf
+- Postman - https://clck.ru/34Nhuw
+- SQL - https://clck.ru/34Nhxi
+- Тест-план - https://clck.ru/34NhyJ
+- Отчет о тестировании - https://clck.ru/34Nhyp
+- Декомпозиции - https://clck.ru/34Nhzh
 
 Во время обучения:
 
