@@ -85,7 +85,9 @@ https://ksendzov.com/
 ![Опыт:](https://img.shields.io/badge/Опыт:-000080?style=for-the-badge&Color=000080)
 
 ![sky.pro:](https://img.shields.io/badge/-Skyeng/Skypro_крупнейший_онлайн—университет:-090909?style=for-the-badge&Color=1195F5)  
-https://sky.pro/
+
+
+<a href="https://sky.pro/" target="_blank">sky.pro</a>
 
 Сентябрь 2022 — по настоящее время
 
