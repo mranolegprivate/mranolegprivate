@@ -66,7 +66,9 @@ mranolegprivate@gmail.com
 ![Опыт:](https://img.shields.io/badge/Опыт:-000080?style=for-the-badge&Color=000080)
 
 ![Авторские курсы Вадима Ксендзова:](https://img.shields.io/badge/Авторские_курсы_Вадима_Ксендзова:-090909?style=for-the-badge&Color=1195F5)  
-https://ksendzov.com/
+
+<a href="https://ksendzov.com/" target="_blank">ksendzov.com</a>
+
 
 Выполненные домашние работы:
 - Postman - https://clck.ru/34Ndve
@@ -85,7 +87,6 @@ https://ksendzov.com/
 ![Опыт:](https://img.shields.io/badge/Опыт:-000080?style=for-the-badge&Color=000080)
 
 ![sky.pro:](https://img.shields.io/badge/-Skyeng/Skypro_крупнейший_онлайн—университет:-090909?style=for-the-badge&Color=1195F5)  
-
 
 <a href="https://sky.pro/" target="_blank">sky.pro</a>
 
