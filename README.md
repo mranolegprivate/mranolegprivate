@@ -123,9 +123,6 @@ Trello, Qase.io, Sitechko, Checkvist, Miro, работа с макетами Fig
 - Знаком с Agile и Scrum
 - Знаком с CMS системами WordPress, DLE:
 
-Примеры работ посмотреть можно тут (не полностью готово):
-https://an-oleg.notion.site/GitHub-34cdad7efd89432b8439902e3be45e7d
-
 ![ЗАДАЧИ:](https://img.shields.io/badge/-ЗАДАЧИ:-090909?style=for-the-badge&Color=1195F5)
 - Учебное тестирование веб-сервисов:
 - Учебное тестирование API:
