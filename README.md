@@ -63,12 +63,9 @@ mranolegprivate@gmail.com
 ![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-fcc525?style=for-the-badge&logoColor=47C5FB)
 ![Навыки обучения](https://img.shields.io/badge/-Навыки_обучения-3ae180?style=for-the-badge&logoColor=47C5FB)
 
-![Опыт:](https://img.shields.io/badge/Опыт:-000080?style=for-the-badge&Color=000080)
-
-![Авторские курсы Вадима Ксендзова:](https://img.shields.io/badge/Авторские_курсы_Вадима_Ксендзова:-090909?style=for-the-badge&Color=1195F5)  
+![Авторские курсы Вадима Ксендзова:](https://img.shields.io/badge/Авторские_курсы_Вадима_Ксендзова:-000080?style=for-the-badge&Color=1195F5)  
 
 <a href="https://ksendzov.com/" target="_blank">ksendzov.com</a>
-
 
 Выполненные домашние работы:
 - Postman - https://clck.ru/34Ndve
@@ -84,9 +81,7 @@ mranolegprivate@gmail.com
 - UX/UI тестирование;
 - Мобильное тестирование (интеграционное, смоук, регрессионное, кросс-браузерное, кросс-платформенное).
 
-![Опыт:](https://img.shields.io/badge/Опыт:-000080?style=for-the-badge&Color=000080)
-
-![sky.pro:](https://img.shields.io/badge/-Skyeng/Skypro_крупнейший_онлайн—университет:-090909?style=for-the-badge&Color=1195F5)  
+![sky.pro:](https://img.shields.io/badge/-Skyeng/Skypro_крупнейший_онлайн—университет:-000080?style=for-the-badge&Color=000080)  
 
 <a href="https://sky.pro/" target="_blank">sky.pro</a>
 
@@ -140,9 +135,7 @@ Trello, Qase.io, Sitechko, Checkvist, Miro, работа с макетами Fig
 - Организовывал продленки с учащимися:
 - Принял участие в тестировании сайта klumba71: Завел 6 баг-репортов, 2 из которых Critical:
 
-![Опыт:](https://img.shields.io/badge/Опыт:-000080?style=for-the-badge&Color=000080)
-
-![DACK D:](https://img.shields.io/badge/-DACK_D,_Южная_Корея:-090909?style=for-the-badge&Color=1195F5)
+![DACK D:](https://img.shields.io/badge/-DACK_D,_Южная_Корея:-000080?style=for-the-badge&Color=000080)
 
 Апрель 2016 — июнь 2022
 
