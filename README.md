@@ -70,9 +70,11 @@ mranolegprivate@gmail.com
 Выполненные домашние работы:
 - Postman - https://clck.ru/34Ndve
 - TerminalLinux - https://clck.ru/34Ndx4
+- Git Branch - https://clck.ru/34SfK9
 - JSON - https://clck.ru/34Ne57
 - XML - https://clck.ru/34Ndxv
 - TXT - https://clck.ru/34NeAA
+- Devtools - https://clck.ru/34SdjZ
 
 - Разработка тестовой документации: тест-кейсы, чек-листы, чит-листы;
 - Ежедневное проведение smoke тестирования, регрес, ретест;
