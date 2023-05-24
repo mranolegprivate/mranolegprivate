@@ -75,6 +75,7 @@ mranolegprivate@gmail.com
 - XML - https://clck.ru/34Ndxv
 - TXT - https://clck.ru/34NeAA
 - Devtools - https://clck.ru/34SdjZ
+- SQL - https://clck.ru/34UsCC
 
 - Разработка тестовой документации: тест-кейсы, чек-листы, чит-листы;
 - Ежедневное проведение smoke тестирования, регрес, ретест;
