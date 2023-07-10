@@ -185,9 +185,10 @@ mranolegprivate@gmail.com
 
 Русский — Родной
 
-Английский — A2 — Элементарный
-Корейские — 2 гып
-![Электронные_сертификаты:](https://img.shields.io/badge/-Электронные_сертификаты:-000080?style=for-the-badge&Color=000080)
+Английский — A2 — Элементарный  
+Корейские — 2 гып  
+
+![Электронные_сертификаты:](https://img.shields.io/badge/-Электронные_сертификаты:-000080?style=for-the-badge&Color=000080)  
 
 [![Stepik](https://img.shields.io/badge/-Stepik-090909?style=for-the-badge&logo=stepik&logoColor=4F7DB3)](https://stepik.org/users/524779521/certificates)
 [![netology](https://img.shields.io/badge/-netology-090909?style=for-the-badge&logo=netology&logoColor=4F7DB3)](https://netology.ru/sharing/b6507cbb53e268fcf74f740f0bbebfc6?utm_source=social&utm_campaign=achievements)
