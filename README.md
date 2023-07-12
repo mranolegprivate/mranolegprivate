@@ -18,11 +18,11 @@
 
 Контакты:
 
-tel. +79291981988
-telegram. @mranolegprivate
-WhatsApp. +79291981988
+tel. +79291981988  
+telegram. @mranolegprivate  
+WhatsApp. +79291981988  
 
-mranolegprivate@gmail.com
+mranolegprivate@gmail.com  
 |||||||
 |:---|:---|:---|:---|:---|:---|
 | [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mranolegprivate) | [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/mranolegprivate) | [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/mranolegprivate) | [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://facebook.com/mranolegprivate) | [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=1195F5)](https://linkedin.com/in/an-oleg/) | [![discord](https://img.shields.io/badge/-discord-090909?style=for-the-badge&logo=discord&logoColor=27A0D9)](https://discord.com/users/mranolegprivate#4437) 
