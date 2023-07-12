@@ -71,6 +71,9 @@ mranolegprivate@gmail.com
 
 ![Студент-наставник:](https://img.shields.io/badge/-Стажер_тестировщик:-090909?style=for-the-badge&Color=1195F5 "Студент наставник")
 
+![Сертификат будет в августе](https://img.shields.io/badge/-Сертификат будет в августе-ed1c24?style=for-the-badge&logo=cert&logoColor=47C5FB)
+
+
 Примеры работ:
 
 - Курсовые и Дипломная - https://clck.ru/34QUkS
