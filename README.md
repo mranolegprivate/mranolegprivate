@@ -18,7 +18,9 @@
 
 Контакты:
 
-+7 (929) 198-198-8
+tel. +79291981988
+telegram. @mranolegprivate
+WhatsApp. +79291981988
 
 mranolegprivate@gmail.com
 |||||||
