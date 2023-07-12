@@ -63,29 +63,6 @@ mranolegprivate@gmail.com
 ![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-fcc525?style=for-the-badge&logoColor=47C5FB)
 ![Навыки обучения](https://img.shields.io/badge/-Навыки_обучения-3ae180?style=for-the-badge&logoColor=47C5FB)
 
-![Авторские курсы Вадима Ксендзова:](https://img.shields.io/badge/Авторские_курсы_Вадима_Ксендзова:-000080?style=for-the-badge&Color=1195F5)  
-
-<a href="https://ksendzov.com/" target="_blank">ksendzov.com</a>
-
-Коммерческая практика на реальном проекте:
-- Разработка тестовой документации: smoke-кейсы, тест-кейсы, чек-листы, чит-листы.
-- Ежедневное проведение smoke-тестирования, регрес, ретест, эд-хок.
-- Написание баг-репортов и ревью.
-- Веб-тестирование (интеграционное, исследовательское, smoke, регрессионное, критического пути, кросс-браузерное, локализации).
-- Мобильное тестирование (интеграционное, smoke, регрессионное, кросс-браузерное, кросс-платформенное).
-- UX/UI тестирование;
-
-Учебная программа:
-
-- Postman - https://clck.ru/34Ndve
-- TerminalLinux - https://clck.ru/34Ndx4
-- Git Branch - https://clck.ru/34SfK9
-- JSON - https://clck.ru/34Ne57
-- XML - https://clck.ru/34Ndxv
-- TXT - https://clck.ru/34NeAA
-- Devtools - https://clck.ru/34SdjZ
-- SQL - https://clck.ru/34W4Am
-
 ![sky.pro:](https://img.shields.io/badge/-Skyeng/Skypro_крупнейший_онлайн—университет:-000080?style=for-the-badge&Color=000080)  
 
 <a href="https://sky.pro/" target="_blank">sky.pro</a>
@@ -136,6 +113,28 @@ mranolegprivate@gmail.com
 - Взаимодействую и коммуници́рую с командой менторов и учащимися на курсе.
 - Организовываю продленки с учащимися по темам курсовых и дипломной.
 
+![Авторские курсы Вадима Ксендзова:](https://img.shields.io/badge/Авторские_курсы_Вадима_Ксендзова:-000080?style=for-the-badge&Color=1195F5)  
+
+<a href="https://ksendzov.com/" target="_blank">ksendzov.com</a>
+
+Коммерческая практика на реальном проекте:
+- Разработка тестовой документации: smoke-кейсы, тест-кейсы, чек-листы, чит-листы.
+- Ежедневное проведение smoke-тестирования, регрес, ретест, эд-хок.
+- Написание баг-репортов и ревью.
+- Веб-тестирование (интеграционное, исследовательское, smoke, регрессионное, критического пути, кросс-браузерное, локализации).
+- Мобильное тестирование (интеграционное, smoke, регрессионное, кросс-браузерное, кросс-платформенное).
+- UX/UI тестирование;
+
+Учебная программа:
+
+- Postman - https://clck.ru/34Ndve
+- TerminalLinux - https://clck.ru/34Ndx4
+- Git Branch - https://clck.ru/34SfK9
+- JSON - https://clck.ru/34Ne57
+- XML - https://clck.ru/34Ndxv
+- TXT - https://clck.ru/34NeAA
+- Devtools - https://clck.ru/34SdjZ
+- SQL - https://clck.ru/34W4Am
 
 ![DACK D:](https://img.shields.io/badge/-DACK_D,_Южная_Корея:-000080?style=for-the-badge&Color=000080)
 
