@@ -175,7 +175,8 @@ mranolegprivate@gmail.com
 Ан Олег
 Мужчина, 35 лет, родился 1 марта 1988
 
-Контакты: +7 (929) 198-19-88  
+Контакты: 
+tel. +7 (929) 198-19-88  
 Telegram: @mranolegprivate — предпочитаемый способ связи  
 email: mranolegprivate@gmail.com   
 https://github.com/mranolegprivate  
