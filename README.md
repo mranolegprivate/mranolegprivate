@@ -71,7 +71,7 @@ mranolegprivate@gmail.com
 
 Сентябрь 2022 — по настоящее время
 
-![Студент-наставник:](https://img.shields.io/badge/-Стажер_тестировщик:-090909?style=for-the-badge&Color=1195F5 "Студент наставник")
+![Студент-ментор с октября 2022г.:](https://img.shields.io/badge/-Стажер_тестировщик:-090909?style=for-the-badge&Color=1195F5 "Студент наставник")
 
 ![Сертификат будет в августе:](https://img.shields.io/badge/-Сертификат_будет_в_августе-ed1c24?style=for-the-badge&logo=cert&logoColor=47C5FB "Сертификат будет в августе")
 
