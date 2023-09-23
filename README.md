@@ -73,8 +73,7 @@ mranolegprivate@gmail.com
 
 ![Студент-наставник:](https://img.shields.io/badge/-Студент—наставник:-090909?style=for-the-badge&Color=1195F5 "Студент-наставник")
 
-![Сертификат будет в августе:](https://img.shields.io/badge/-Сертификат_будет_в_августе-ed1c24?style=for-the-badge&logo=cert&logoColor=47C5FB "Сертификат будет в августе")
-
+[![Сертификат](https://img.shields.io/badge/-Сертификат_будет_в_августе-ed1c24?style=for-the-badge&logo=cert&logoColor=47C5FB)](https://disk.yandex.lt/i/ywSis-co9sHVOA)
 
 Примеры работ:
 
